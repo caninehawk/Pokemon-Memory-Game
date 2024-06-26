@@ -20,11 +20,8 @@ Score Tracking: Keep track of your current score and high score.
 Game Win/Loss: Game ends when all pairs are matched or when the same card is clicked twice.
 Responsive Design: Playable on both desktop and mobile devices.
 ## Demo
-Here's a glimpse of how the game looks:
-{https://game-rose-beta.vercel.app/}
-
-## You can also try the live demo here.
-
+### You can also try the live demo here.
+https://game-rose-beta.vercel.app/
 ### Installation
 To run the game locally on your machine, follow these steps:
 
