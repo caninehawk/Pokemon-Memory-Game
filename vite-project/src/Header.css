@@ -1,0 +1,46 @@
+.header {
+    background-color: #8ede69;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.scoreBoard {
+    border: 2px solid #328c1b;
+    background-color: #a9df90;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 50%;
+}
+
+button {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #a9df90;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    border: 1px solid #000000;
+    transition: background-color 0.2s, transform 0.2s;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #37a404; /* Darker green */
+    transform: scale(1.1); /* Slightly larger */
+}
+
+button:active{
+    background-color: #a9df90;
+    box-shadow: 0 2px #436d16;
+    transform: translateY(1px);
+}
