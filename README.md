@@ -10,9 +10,7 @@ https://game-rose-beta.vercel.app/
 - Features
 - Demo
 - Installation
-- Usage
 - Technologies Used
-- Contributing
 
 ## Introduction
 Pokémon Memory Card Game is a simple React application where players click on cards to reveal Pokémon images. The objective is to find all matching pairs by remembering the positions of previously clicked cards. The game tracks your score and high score, challenging you to improve with each session.
