@@ -1,6 +1,9 @@
 # Pokémon Memory Card Game
 
 Welcome to the Pokémon Memory Card Game! This web-based game challenges you to match pairs of Pokémon cards by remembering their positions. It's a fun exercise for testing your memory and enjoying some Pokémon nostalgia.
+### You can also try the live demo here.
+https://game-rose-beta.vercel.app/
+
 
 ## Table of Contents
 - Introduction
@@ -34,22 +37,23 @@ Navigate into the project directory:
 ```
 ```bash
 Copy code
-cd pokemon-memory-game
-Install dependencies using npm or yarn:
+cd vite-project
+
 ```
 ```bash
-Copy code
+Install dependencies using npm :
+Copy code:
+
 npm install
-# or
-yarn install
-Usage
-After completing the installation steps, you can start the game:
+
+
 ```
 ```bash
-Copy code
-npm start
-# or
-yarn start
+After completing the installation steps, you can start the game:
+Copy code:
+
+npm run dev
+
 This will open the game in your default web browser. Enjoy playing!
 ```
 ## Technologies Used
