@@ -32,7 +32,7 @@ Clone the repository:
 
 ```bash
 Copy code
-git clone https://github.com/your-username/pokemon-memory-game.git
+git clone https://github.com/caninehawk/Game.git
 Navigate into the project directory:
 ```
 ```bash
